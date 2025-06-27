@@ -1,6 +1,4 @@
-# Hey folks! 👋
-
-<a href="https://github.com/zhMoody"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=5000&width=1080&lines=Hi+I'm+Moody;I'm+a+front-end+development+engineer;welcome+to+my+repo" alt="Typing SVG" /></a>
+<a href="https://github.com/zhMoody"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=5000&width=1080&lines=Hi+folks!+I'm+Moody;I'm+a+front-end+development+engineer;welcome+to+my+repo" alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://coder.cm" target="_blank"><img  align=center src="https://img.shields.io/badge/Blgo-Moody-%23e4891c?style=for-the-badge"/></a>
