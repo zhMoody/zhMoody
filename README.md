@@ -7,6 +7,12 @@
   <a href="https://music.163.com/#/playlist?id=159016326" target="_blank"><img  align=center src="https://img.shields.io/badge/Music-网易云-%23e4511c?style=for-the-badge"/></a>
 </p>
 
+<picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=zhMoody&theme=gruvbox&hide_border=true&locale=zh_Hans&mode=weekly&card_width=1080">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=zhMoody&theme=gruvbox-duo&hide_border=true&locale=zh_Hans&mode=weekly&card_width=1080">
+  <img align="center" src="https://streak-stats.demolab.com?user=zhMoody&theme=gruvbox-duo&hide_border=true&locale=zh_Hans&mode=weekly&card_width=1080">
+</picture>
+
 ## Github Stats
 
 <table  cellspacing="0" cellpadding="0">
