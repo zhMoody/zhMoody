@@ -1,6 +1,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Moody" alt="Typing Effect" />
 </p>
+<p align="center">
+<a href="https://coder.cm" target="_blank"><img  align=center src="https://img.shields.io/badge/Blgo-Moody-%23e4891c?style=for-the-badge"/></a>
+<a href="https://music.163.com/#/playlist?id=159016326" target="_blank"><img  align=center src="https://img.shields.io/badge/Music-网易云-%23e4511c?style=for-the-badge"/></a>
+</p>
 
 <table align="center" cellspacing="0" cellpadding="0">
   <tr>
