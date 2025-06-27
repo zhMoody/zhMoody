@@ -1,13 +1,12 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Moody" alt="Typing Effect" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=5000&width=1080&lines=Hi+I'm+Moody;I'm+a+front-end+development+engineer;I'm+very+glad+that+you+can+browse+my+Github+homepage" alt="Typing SVG" /></a>
 
 <p align="center">
-<a href="https://coder.cm" target="_blank"><img  align=center src="https://img.shields.io/badge/Blgo-Moody-%23e4891c?style=for-the-badge"/></a>
-<a href="https://music.163.com/#/playlist?id=159016326" target="_blank"><img  align=center src="https://img.shields.io/badge/Music-网易云-%23e4511c?style=for-the-badge"/></a>
+  <a href="https://coder.cm" target="_blank"><img  align=center src="https://img.shields.io/badge/Blgo-Moody-%23e4891c?style=for-the-badge"/></a>
+  <a href="https://music.163.com/#/playlist?id=159016326" target="_blank"><img  align=center src="https://img.shields.io/badge/Music-网易云-%23e4511c?style=for-the-badge"/></a>
 </p>
 
 ## Github Stats
+
 <table  cellspacing="0" cellpadding="0">
   <tr>
     <td>
