@@ -21,9 +21,9 @@
     <td>
       <div align="center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zhMoody&locale=en&line_height=33&show_icons=true&hide=&theme=dark&rank_icon=default&hide_border=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zhMoody&locale=en&line_height=33&show_icons=true&hide=&theme=&rank_icon=default&hide_border=true">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhMoody&locale=en&line_height=33&show_icons=true&hide=&theme=&rank_icon=default&hide_border=true">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zhMoody&locale=cn&line_height=33&show_icons=true&hide=&theme=dark&rank_icon=default&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zhMoody&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=default&hide_border=true">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhMoody&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=default&hide_border=true">
         </picture>
         <br />
         <img src="https://profile-counter.glitch.me/zhMoody/count.svg" alt="Visitor Count" />
