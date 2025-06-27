@@ -12,13 +12,6 @@
 <table  cellspacing="0" cellpadding="0">
   <tr>
     <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhMoody&locale=cn&theme=dracula&langs_count=10&layout=compact&hide_border=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhMoody&locale=cn&theme=&langs_count=10&layout=compact&hide_border=true">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhMoody&locale=cn&theme=&langs_count=5&layout=compact&hide_border=true"/>
-      </picture>
-    </td>
-    <td>
       <div align="center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zhMoody&locale=cn&line_height=33&show_icons=true&hide=&theme=dark&rank_icon=default&hide_border=true">
@@ -28,6 +21,13 @@
         <br />
         <img src="https://profile-counter.glitch.me/zhMoody/count.svg" alt="Visitor Count" />
       </div>
+    </td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhMoody&locale=cn&theme=dracula&langs_count=10&layout=compact&hide_border=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhMoody&locale=cn&theme=&langs_count=10&layout=compact&hide_border=true">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhMoody&locale=cn&theme=&langs_count=5&layout=compact&hide_border=true"/>
+      </picture>
     </td>
   </tr>
 </table>
