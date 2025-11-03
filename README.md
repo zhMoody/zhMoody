@@ -21,8 +21,8 @@
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhMoody&locale=en&theme=dracula&langs_count=10&layout=compact&hide_border=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhMoody&locale=en&theme=&langs_count=10&layout=compact&hide_border=true">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhMoody&locale=en&theme=&langs_count=5&layout=compact&hide_border=true"/>
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhMoody&locale=en&theme=swift&langs_count=10&layout=compact&hide_border=true">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhMoody&locale=en&theme=swift&langs_count=5&layout=compact&hide_border=true"/>
       </picture>
     </td>
   </tr>
