@@ -7,26 +7,7 @@
 
 ## Github Stats
 
-<table  cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <div align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zhMoody&locale=en&line_height=33&show_icons=true&hide=&theme=dark&rank_icon=default&hide_border=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zhMoody&locale=en&line_height=33&show_icons=true&hide=&theme=swift&rank_icon=default&hide_border=true">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhMoody&locale=en&line_height=33&show_icons=true&hide=&theme=swift&rank_icon=default&hide_border=true">
-        </picture>
-      </div>
-    </td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhMoody&locale=en&theme=dracula&langs_count=10&layout=compact&hide_border=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhMoody&locale=en&theme=swift&langs_count=10&layout=compact&hide_border=true">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhMoody&locale=en&theme=swift&langs_count=5&layout=compact&hide_border=true"/>
-      </picture>
-    </td>
-  </tr>
-</table>
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## GitHub Contribution Snake
 
